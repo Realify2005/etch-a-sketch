@@ -13,3 +13,14 @@ body {
     width: 40em;
     height: 40em;
 }
+
+button {
+    font-size: 2.5m;
+    margin: 1em;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
